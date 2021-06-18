@@ -1,0 +1,42 @@
+- primeiro a chegar, primeiro a ser servido.
+
+
+cabeça -> a(20) -> b(50) -> c(10)
+
+tempoA= 20
+tempo B = 20+50 = 70
+tempo c = 10+70 = 80
+Tempo total = (20+70+80)/3 = 56.67
+tempo medio igual a 30
+
+-job mais curto primeiro.
+
+cabeça -> a(10) -> c(20) -> b(50)
+
+tempoA= 10
+tempo B = 10+20 = 30
+tempo c = 30+50 = 80
+Tempo medio = (10+30+80)/3 = 40
+tempo medio igual a 40
+
+- circular
+
+0,1s 0,01s 
+
+quantum - timeSlice que o processo pode ficar em CPU
+
+cabeça -> 
+
+processo em execução
+processo bloqueado
+processo pronto
+
+- Escalonamento por prioridades
+
+Como é a prioridade? $nice
+quanto menor maior a prioridade.
+
+p(a) = 10, p(b) = p(c) = p(d) =5, p(e)=1
+
+- Filas de retorno multinivel
+

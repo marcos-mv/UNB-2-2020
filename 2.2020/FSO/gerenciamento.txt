@@ -1,0 +1,17 @@
+Gerenciamento de memória
+
+Conceitos Básicos.
+Swapping
+Alocação contínua
+Paginação
+
+A atribuição de endereços de instruções e dados para edereços de memoria podem ser feitos em 3 diferentes estágios.
+
+EM TEMPO DE COMPILAÇÃO:
+
+    Se a localização na memória já é conhecida a priori, um código de endereçamento absoluto por ser gerado
+
+
+EM TEMPO DE CARREGAMENTO:
+
+EM TEMPO DE EXECUÇÂO:
